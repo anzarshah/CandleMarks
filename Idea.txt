@@ -1,0 +1,18 @@
+🔹 Step 1: Define Project Scope & Requirements
+✅ Features to Include:
+
+Real-time stock market data fetching
+Sentiment analysis of financial news
+AI-based stock trend prediction
+Portfolio risk assessment
+Personalized investment recommendations
+User dashboard with real-time updates
+✅ Tech Stack Choices:
+
+AI Model: DeepSeek (for NLP, forecasting, and decision-making)
+Backend: Python (FastAPI/Django/Flask)
+Frontend: React.js / Vue.js
+Database: PostgreSQL / MongoDB
+Stock Data: Alpha Vantage, Yahoo Finance API
+News Data: Google News API, Twitter API
+Hosting: AWS, Google Cloud, Vercel
